@@ -25,7 +25,7 @@ export default function RandomColor() {
     const g = randomColorUtility(256);
     const b = randomColorUtility(256);
 
-    setColor(`rgb(${r}, ${g}, ${b})`);
+    setColor('rgb(${r}, ${g}, ${b})');
   }
 
   useEffect(() => {
