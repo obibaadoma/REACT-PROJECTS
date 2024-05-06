@@ -1,4 +1,4 @@
-# React and Redux
+# React and Redux.
 
 If you are not familiar with linters and GitHub Actions, read [root level README](../README.md).
 
