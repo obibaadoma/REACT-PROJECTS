@@ -1,0 +1,7 @@
+.active {
+  color: yellowgreen;
+}
+
+.inactive {
+  color: rgb(78, 11, 122);
+}

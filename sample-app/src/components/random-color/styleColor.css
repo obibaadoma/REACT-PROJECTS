@@ -1,0 +1,16 @@
+.color-container {
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}
+
+.color-display {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  font-size: 60px;
+  margin-top: 50px;
+}

@@ -1,0 +1,26 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.wrapper button {
+  padding: 30px 20px;
+  background: yellowgreen;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.accordion {
+  width: 500px;
+}
+
+.item {
+  background: grey;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
